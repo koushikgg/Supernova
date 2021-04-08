@@ -1,4 +1,4 @@
-# Eunbi-Bot - A Moderation-Music Bot
+# Eunbi Bot - A Moderation-Music Bot
 
 For now, Eunbi Bot has only Simple Commands. Maybe soon I will work on it. And it has a Music Command, I'm currently using the [Distube NPM](https://github.com/distubejs) to make a Music Command on this Bot.
 

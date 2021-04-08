@@ -18,3 +18,13 @@ Music -
 ✅ Nowplaying
 
 Soon, I will add more commands ❤️
+
+
+#Want to Clone this Repository?
+1. Download or Clone this Repository
+2. Rename the `config.json.example` to `config.json` and change the ( token , prefix , etc )
+3. `npm install`
+4. and Done
+
+
+If something happens on the code, I am not responsible for that. Thats all ❤️ for all.

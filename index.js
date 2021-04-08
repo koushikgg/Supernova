@@ -30,33 +30,6 @@ client.cooldowns = new Discord.Collection();
     require(`./handlers/${handler}`)(client);
 });
 
-//Whenever the bot joins a server, If you wanna add that. Just remove the '//'
-
-//client.on('guildCreate', guild => {
-  //guild.systemChannel.send({
-    //embed:{
-        //title: 'Thanks for Inviting me to the Server!',
-        //color: "RANDOM", 
-        //description: "To know all of my commands, Type `dubu?help`",
-
-        //fields:[
-            //{
-                //name: 'Join our Server',
-                //value: '[Server Link](https://discord.gg/zqR4wyaPYq)'
-            //},    
-        //],
-
-    //image: {
-        //url: 'https://thumbs.gfycat.com/TerribleValuableAlbertosaurus-size_restricted.gif',
-    //},
-
-        //footer: {
-        //text: 'Dubu🦅 Made by: Wonyoungieeeeee#2004'
-
-        //}
-    //}
-  //});
-//});
 
 client.distube = new DisTube(client, {
     searchSongs: false,

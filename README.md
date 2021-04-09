@@ -55,6 +55,6 @@ You must changed the something in the `config.json` file or else the bot won't w
 
 ## Credits
 
-[@Tomato6966](https://github.com/Tomato6966) Thanks to Tomato6966 for the Handler and the Queue System. Queue System is partially adapted from [Musicium](https://github.com/Tomato6966/Musicium)
+[@Tomato6966](https://github.com/Tomato6966) Thanks to Tomato6966, For the Handler and the Queue System. Queue System is partially adapted from [Musicium](https://github.com/Tomato6966/Musicium)
 
 [my github]: https://github.com/Wonyoungieeeeeee

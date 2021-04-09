@@ -7,9 +7,10 @@ For now, Eunbi Bot has only Simple Commands. Maybe soon I will work on it. And i
 ## Bot Made By :
 Wonyoungieeeeeee#2004
 
-> GitHub [**Wonyoungieeeeeee**][my github]
-> Youtube **Making** `one` **soon**
-> Discord `Minju#2001`
+> GitHub [Wonyoungieeeeeee][my github]  
+> Youtube **Making** `one` **soon**  
+> Discord `Minju#2001`  
+
 
 #### Moderation :
 

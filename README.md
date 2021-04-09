@@ -7,7 +7,7 @@ For now, Eunbi Bot has only Simple Commands. Maybe soon I will work on it. And i
 ## Bot Made By :
 Wonyoungieeeeeee#2004
 
-> Github [Wonyoungieeeeeee][https://github.com/Wonyoungieeeeeee]
+> GitHub [**Wonyoungieeeeeee**][my github]
 > Discord `Minju#2001`
 
 #### Moderation :

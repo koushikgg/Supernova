@@ -4,7 +4,7 @@
 
 For now, Eunbi Bot has only Simple Commands. Maybe soon I will work on it. And it has a Music Command, I'm currently using the [Distube NPM](https://github.com/distubejs) to make a Music Command on this Bot. **Youtube Song Title / Playlist Supported**
 
-# Bot Made By :
+## Bot Made By :
 Wonyoungieeeeeee#2004
 
 > Github [Wonyoungieeeeeee](https://github.com/Wonyoungieeeeeee)

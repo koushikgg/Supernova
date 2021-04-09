@@ -1,4 +1,8 @@
-# Eunbi Bot - A Moderation-Music Bot
+<div align="center">
+<img src="https://cdn.discordapp.com/avatars/819341621396766780/a0b1b2bdfddf8baea492812b3bac23fd.webp?size=1024" align="center" style="width: 100%" />
+</div>  
+
+# Eunbi Bot | A Moderation-Music Bot
 
 For now, Eunbi Bot has only Simple Commands. Maybe soon I will work on it. And it has a Music Command, I'm currently using the [Distube NPM](https://github.com/distubejs) to make a Music Command on this Bot. **Youtube Song Title / Playlist Supported**
 

@@ -53,4 +53,6 @@ You must changed the something in the `config.json` file or else the bot won't w
 
 ## If something happens on the code, I am not responsible for that. Thats all ❤️ for all.
 
+## Credits to [Tomato6966](https://github.com/Tomato6966) for the Handler and the Queue System. Make sure to use his bot [Musicium](https://github.com/Tomato6966/Musicium)
+
 [my github]: https://github.com/Wonyoungieeeeeee

@@ -2,13 +2,13 @@
 
 For now, Eunbi Bot has only Simple Commands. Maybe soon I will work on it. And it has a Music Command, I'm currently using the [Distube NPM](https://github.com/distubejs) to make a Music Command on this Bot. **Youtube Song Title / Playlist Supported**
 
-Moderation - 
+#### Moderation :
 ✅ Mute
 ✅ Ban
 ✅ Kick
 ✅ Unmute
 
-Music - 
+#### Music :
 ✅ Play
 ✅ Stop
 ✅ Skip
@@ -20,11 +20,23 @@ Music -
 Soon, I will add more commands ❤️
 
 
-**Want to Clone this Repository?**
+## Installation | Want to Clone this Repository?
+
 1. Download or Clone this Repository
 2. Rename the `config.json.example` to `config.json` and change the ( token , prefix , etc )
 3. `npm install`
-4. and Done
+4. Start the bot with `node index.js`
+5. and Done
+
+
+## Config.json File
+```json
+{
+  "token": "BOT TOKEN",
+  "prefix": "BOT PREFIX"
+}
+```
+You must changed the something in the `config.json` file or else the bot won't work
 
 
 If something happens on the code, I am not responsible for that. Thats all ❤️ for all.

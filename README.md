@@ -8,6 +8,7 @@ For now, Eunbi Bot has only Simple Commands. Maybe soon I will work on it. And i
 Wonyoungieeeeeee#2004
 
 > GitHub [**Wonyoungieeeeeee**][my github]
+> Youtube **Making** `one` **soon**
 > Discord `Minju#2001`
 
 #### Moderation :
@@ -50,3 +51,5 @@ You must changed the something in the `config.json` file or else the bot won't w
 
 
 ## If something happens on the code, I am not responsible for that. Thats all ❤️ for all.
+
+[my github]: https://github.com/Wonyoungieeeeeee

@@ -1,4 +1,4 @@
-<div align="center"><img src="https://cdn.discordapp.com/avatars/819341621396766780/a0b1b2bdfddf8baea492812b3bac23fd.webp?size=1024"></div>
+<img width="150" height="150" align="center" style="float: left; margin: 0 10px 10px 0;" alt="Crucian" src="https://cdn.discordapp.com/avatars/819341621396766780/a0b1b2bdfddf8baea492812b3bac23fd.png?size=256">
 
 # Eunbi Bot | A Moderation-Music Bot
 

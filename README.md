@@ -62,6 +62,7 @@ You must changed the something in the `config.json` file or else the bot won't w
 > Discord `Minju#2001`  
 
 You can add by Bots too.
+
 [![Dubu🦅](https://cdn.discordapp.com/attachments/830149319486996511/830457067952406564/pure-white-background-85a2a7fd.jpg)](https://discord.com/oauth2/authorize?client_id=827431638673260564&scope=bot&permissions=3206256)
 
 [my github]: https://github.com/Wonyoungieeeeeee

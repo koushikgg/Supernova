@@ -64,6 +64,6 @@ You must changed the something in the `config.json` file or else the bot won't w
 You can add my Bots too.
 
 [![Dubu🦅](https://cdn.discordapp.com/attachments/830149319486996511/830457067952406564/pure-white-background-85a2a7fd.jpg)](none)
-[![Chaewon✨](https://cdn.discordapp.com/attachments/820677751266082816/830458322133581864/pure-white-background-85a2a7fd_1.jpg](none)
+[![Chaewon✨](https://cdn.discordapp.com/attachments/820677751266082816/830458322133581864/pure-white-background-85a2a7fd_1.jpg)](none)
 
 [my github]: https://github.com/Wonyoungieeeeeee

@@ -14,15 +14,15 @@ module.exports = {
         if (!helpArgs[0]) {
 
             let embed = new MessageEmbed()
-                .setTitle(`Eunbi🌹 Help Commands`)
-                .setImage('https://media1.tenor.com/images/f9b2c35978950572f1fe0b6d4bbd61a8/tenor.gif?itemid=15555267')
+                .setTitle(`(YOUR BOTS NAME) Help Commands`)
+                .setImage('(YOUR FAV GIF)')
                 .setThumbnail(client.user.displayAvatarURL())
                 .setColor('RANDOM')
                 .setDescription(`✅ **My Prefix Is \`${prefix}\`**`)
                 .addField(`🎶 Music [7] - `, '`play`, `stop`, `nowplaying`, `pause`, `queue`, `resume`, `skip`')
                 .addField(`❗ Moderation [4] - `, '`ban`, `kick`, `mute`, `unmute`')
                 .addField(`❓ Info[1] - `, '`help`')
-                .setFooter(`${message.guild.me.displayName} | Total Commands - 12 Loaded | Bot Made By: Wonyoungieeeeeee#2004`, client.user.displayAvatarURL());
+                .setFooter(`${message.guild.me.displayName} | Total Commands - 12 Loaded | Bot Made By: (YOUR DISCORD NAME or ETC)`, client.user.displayAvatarURL());
 
             message.channel.send(embed)
         }
@@ -34,7 +34,7 @@ module.exports = {
         try {
             let embed2 = new MessageEmbed()
             .setThumbnail(client.user.displayAvatarURL())
-            .setImage('https://media1.tenor.com/images/f9b2c35978950572f1fe0b6d4bbd61a8/tenor.gif?itemid=15555267')
+            .setImage('(YOUR FAV GIF)')
             .setColor('RANDOM')
                 .setTitle(`Command: ${prefix}${command.name}`)
                 .setDescription(`

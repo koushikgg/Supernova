@@ -61,8 +61,9 @@ You must changed the something in the `config.json` file or else the bot won't w
 > GitHub [@Wonyoungieeeeeee][my github]  
 > Discord `Minju#2001`  
 
-You can add by Bots too.
+You can add my Bots too.
 
-[![Dubu🦅](https://cdn.discordapp.com/attachments/830149319486996511/830457067952406564/pure-white-background-85a2a7fd.jpg)](https://discord.com/oauth2/authorize?client_id=827431638673260564&scope=bot&permissions=3206256)
+[![Dubu🦅](https://cdn.discordapp.com/attachments/830149319486996511/830457067952406564/pure-white-background-85a2a7fd.jpg)](none)
+[![Chaewon✨](https://cdn.discordapp.com/attachments/820677751266082816/830458322133581864/pure-white-background-85a2a7fd_1.jpg](none)
 
 [my github]: https://github.com/Wonyoungieeeeeee

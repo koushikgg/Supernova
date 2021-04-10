@@ -57,4 +57,11 @@ You must changed the something in the `config.json` file or else the bot won't w
 
 [@Tomato6966](https://github.com/Tomato6966) Thanks to Tomato6966, For the Handler and the Queue System. Queue System is partially adapted from [Musicium](https://github.com/Tomato6966/Musicium)
 
+## Support Me
+> GitHub [@Wonyoungieeeeeee][my github]  
+> Discord `Minju#2001`  
+
+You can add by Bots too.
+[![Dubu🦅](https://cdn.discordapp.com/attachments/830149319486996511/830453617545707540/twice-dahyun-feel-special-uhdpaper.com-8K-5.849-wp.thumbnail.jpg)](https://discord.com/oauth2/authorize?client_id=827431638673260564&scope=bot&permissions=3206256)
+
 [my github]: https://github.com/Wonyoungieeeeeee

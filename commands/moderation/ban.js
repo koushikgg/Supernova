@@ -16,7 +16,7 @@ module.exports = {
         if(!member) return message.channel.send('Can\'t seem to find this user. Sorry \'bout that :/');
         if(!member.bannable) return message.channel.send('This user can\'t be banned. It is either because they are a mod/admin, or their highest role is higher than mine');
 
-        if(member.id === message.author.id) return message.channel.send('Bruh, you can\'t ban yourself!');
+        if(member.id === message.author.id) return message.channel.send('You can\'t ban yourself!');
 
         let reason = args.slice(1).join(" ");
 

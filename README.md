@@ -1,15 +1,15 @@
-<div align="center"><img src="https://cdn.discordapp.com/avatars/819341621396766780/a0b1b2bdfddf8baea492812b3bac23fd.png?size=256"></div>
+<div align="center"><img src="https://cdn.discordapp.com/attachments/834129994812620830/836739194457686016/giphy-preview.gif"></div>
 
-# Eunbi Bot | A Moderation-Music Bot
+# Supernova Bot | A Moderation-Music Bot
 
-For now, Eunbi Bot has only Simple Commands. Maybe soon I will work on it. And it has a Music Command, I'm currently using the [Distube NPM](https://github.com/distubejs) to make a Music Command on this Bot. **Youtube Song Title / Playlist Supported**
+For now, Supernova Bot has only Simple Commands. Maybe soon I will work on it. And it has a Music Command, I'm currently using the [Distube NPM](https://github.com/distubejs) to make a Music Command on this Bot. **Youtube Song Title / Playlist Supported**
 
 ## Bot Made By :
-© Wonyoungieeeeeee#2004
+© Koushik#0012
 
-> GitHub [@Wonyoungieeeeeee][my github]  
+> GitHub [@koushikop5][my github]  
 > Youtube **making `one` soon**  
-> Discord `Minju#2001`  
+> Discord `Koushik#0012`  
 
 
 #### Moderation :
@@ -58,12 +58,11 @@ You must changed the something in the `config.json` file or else the bot won't w
 [@Tomato6966](https://github.com/Tomato6966) Thanks to Tomato6966, For the Handler and the Queue System. Queue System is partially adapted from [Musicium](https://github.com/Tomato6966/Musicium)
 
 ## Support Me
-> GitHub [@Wonyoungieeeeeee][my github]  
-> Discord `Minju#2001`  
+> GitHub [@koushikop5][my github]  
+> Discord `Koushik#0012`  
 
 You can add my Bots too.
 
-[![Dubu🦅](https://cdn.discordapp.com/attachments/830149319486996511/830457067952406564/pure-white-background-85a2a7fd.jpg)](none)
-[![Chaewon✨](https://cdn.discordapp.com/attachments/820677751266082816/830458322133581864/pure-white-background-85a2a7fd_1.jpg)](none)
+[![Dubu🦅](https://cdn.discordapp.com/attachments/834129994812620830/836740488563261450/flamingtext__26555937645956645.gif)](none)
 
-[my github]: https://github.com/Wonyoungieeeeeee
+[my github]: https://github.com/koushikop5
